@@ -1,0 +1,11 @@
+Kieran Uptagrafft
+9/26/24
+SDP
+
+1. place_token
+2.Like an x and y grid they first pick a cell on the x axis then they pick a cell on the y axis.
+3.Check win should be called in place_token so after you place a token you check the win status.
+4.a game loop will just  take the class. Then a computer function that will take no aurguments 
+5.a loop that goes through the whole gird.
+
+
